@@ -31,7 +31,7 @@ Este é um simples jogo da memória feito com HTML, CSS e JavaScript. O jogo é 
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd jogo-da-memoria
+   cd jogodamemoria
    ```
 3. Abra o arquivo `index.html` em seu navegador preferido.
 
