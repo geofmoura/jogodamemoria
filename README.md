@@ -27,7 +27,7 @@ Este é um simples jogo da memória feito com HTML, CSS e JavaScript. O jogo é 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-memoria.git
+   git clone https://github.com/geofmoura/jogodamemoria.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
@@ -44,11 +44,3 @@ Este é um simples jogo da memória feito com HTML, CSS e JavaScript. O jogo é 
 ## Contribuição
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para enviar um pull request. Sugestões e melhorias são sempre bem-vindas!
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-Espero que este README forneça uma boa visão geral do projeto e ajude outros desenvolvedores a entenderem e contribuírem para o seu código!
