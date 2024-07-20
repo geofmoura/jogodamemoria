@@ -17,9 +17,11 @@ Este é um simples jogo da memória feito com HTML, CSS e JavaScript. O jogo é 
 
 ## Estrutura do Projeto
 
-- `index.html`: Contém a estrutura básica do HTML.
-- `styles.css`: Contém o estilo do jogo, tornando-o visualmente agradável e responsivo.
-- `script.js`: Contém a lógica do jogo, incluindo a criação dinâmica das cartas e a lógica de combinação.
+- `index.html`: Contém a estrutura básica da tela de login.
+- `game.html`: Contém a estrutura básica do tempo do jogo
+- `games.css`: Contém o estilo do jogo, tornando-o visualmente agradável e responsivo.
+- `login.js`: Contém a lógica de login.
+- `game.js`: Contém a lógica do jogo, incluindo a criação dinâmica das cartas e a lógica de combinação.
 
 ## Como Executar
 
